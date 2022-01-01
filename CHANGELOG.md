@@ -10,8 +10,11 @@ This is an alpha version! The changes listed here are not final.
 - Add Jetpack Security Bundle upsell to AAG
 - Comment: Print Post View: Likes and list of likers should be hidden in the print post view.
 - Comment: Print Post View: Recommended posts should be hidden in the print post view.
+- Hide VideoPress embed block in favor of Video block.
+- Remove CTAs/buttons from AAG Dashboard
 
 ### Improved compatibility
+- Cookies & Consents Banner: change output when loaded in preview window
 - General: update WordPress version requirements to WordPress 5.8.
 
 ### Bug fixes
@@ -19,6 +22,7 @@ This is an alpha version! The changes listed here are not final.
   This change deals with removing the code that's in place to fetch share counts for non-official buttons. The code is being removed because it's not functional.
 - Dashboard: fix logic that blocked one from enabling searchable features from the Jetpack settings.
 - Do not display recommendations during identity crisis.
+- Fix country code for cyprus
 - Instant Search: ensure the hidden overlay doesn't add whitespace to printed pages
 - Prevent an E_NOTICE when running in non-web context
 - Settings menu: add Jetpack item for sites with Scan product
@@ -36,6 +40,7 @@ This is an alpha version! The changes listed here are not final.
 - Load the Composer package assets i18n map.
 - Switch to pcov for code coverage.
 - Sync some E2E deps with the rest of the monorepo to avoid breaking eslint tests.
+- Updated package dependencies.
 - Updated package dependencies.
 - Updated package dependencies.
 - Updated package dependencies.
