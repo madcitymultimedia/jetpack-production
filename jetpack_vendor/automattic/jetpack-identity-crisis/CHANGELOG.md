@@ -14,7 +14,9 @@ This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - Switch to pcov for code coverage.
+- Updated package dependencies
 - Updated package textdomain from `jetpack` to `jetpack-idc`.
+- Updated references to '.jp-recommendations__app-badge' to its new name '.apps-badge'
 
 ## [0.5.0] - 2021-12-14
 ### Added

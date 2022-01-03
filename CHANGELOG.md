@@ -12,10 +12,15 @@ This is an alpha version! The changes listed here are not final.
 - Comment: Print Post View: Recommended posts should be hidden in the print post view.
 - Hide VideoPress embed block in favor of Video block.
 - Remove CTAs/buttons from AAG Dashboard
+- Stats: remove legacy option to display the Smiley face used for the tracking pixel.
+- Updates the Apps card on the At a Glance page to display links to the Jetpack mobile apps.
+- VideoPress: add "allow download" option on videos to allow viewers to download the video.
+- VideoPress: reload embed preview on creation until we know the video size.
 
 ### Improved compatibility
 - Cookies & Consents Banner: change output when loaded in preview window
 - General: update WordPress version requirements to WordPress 5.8.
+- VideoPress: classic block embeds with old flash URLs can now be properly converted to VideoPress blocks.
 
 ### Bug fixes
 - Comment: The calls to facebook's graph API via SDK has stopped providing us with share counts, at least since 2019. The correct way to display share counts now is to rely on official buttons. 
@@ -25,7 +30,9 @@ This is an alpha version! The changes listed here are not final.
 - Fix country code for cyprus
 - Instant Search: ensure the hidden overlay doesn't add whitespace to printed pages
 - Prevent an E_NOTICE when running in non-web context
+- Search: Fix styling for Blank Canvas theme
 - Settings menu: add Jetpack item for sites with Scan product
+- Stats: do not trigger views when post is embedded into another site.
 - Vimeo Embeds: support more URL formats, such as videos in playlists.
 - We now identify admin menu dashicons that won't be rendered in Calypso, and provide a default icon for them.
 
@@ -40,6 +47,7 @@ This is an alpha version! The changes listed here are not final.
 - Load the Composer package assets i18n map.
 - Switch to pcov for code coverage.
 - Sync some E2E deps with the rest of the monorepo to avoid breaking eslint tests.
+- Updated package dependencies
 - Updated package dependencies.
 - Updated package dependencies.
 - Updated package dependencies.
