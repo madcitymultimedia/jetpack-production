@@ -5,12 +5,14 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [1.6.14-alpha] - unreleased
+## [1.6.15] - 2022-01-25
+### Changed
+- Updated package dependencies.
 
-This is an alpha version! The changes listed here are not final.
-
+## [1.6.14] - 2022-01-04
 ### Changed
 - Switch to pcov for code coverage.
+- Updated package dependencies
 
 ## [1.6.13] - 2021-12-14
 ### Changed
@@ -120,7 +122,8 @@ This is an alpha version! The changes listed here are not final.
 
 - Packages: Finish the constants package
 
-[1.6.14-alpha]: https://github.com/Automattic/jetpack-constants/compare/v1.6.13...v1.6.14-alpha
+[1.6.15]: https://github.com/Automattic/jetpack-constants/compare/v1.6.14...v1.6.15
+[1.6.14]: https://github.com/Automattic/jetpack-constants/compare/v1.6.13...v1.6.14
 [1.6.13]: https://github.com/Automattic/jetpack-constants/compare/v1.6.12...v1.6.13
 [1.6.12]: https://github.com/Automattic/jetpack-constants/compare/v1.6.11...v1.6.12
 [1.6.11]: https://github.com/Automattic/jetpack-constants/compare/v1.6.10...v1.6.11

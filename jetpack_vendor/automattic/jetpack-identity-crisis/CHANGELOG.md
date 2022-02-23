@@ -5,16 +5,51 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [0.6.0-alpha] - unreleased
+## [0.7.4] - 2022-02-22
+### Added
+- Add blog ID to event tracking.
 
-This is an alpha version! The changes listed here are not final.
+## [0.7.3] - 2022-02-16
+### Changed
+- Updated package dependencies.
 
+## [0.7.2] - 2022-02-09
+### Changed
+- Updated package dependencies
+
+## [0.7.1] - 2022-02-02
+### Changed
+- Updated package dependencies.
+
+## [0.7.0] - 2022-01-27
+### Changed
+- IDC "Safe Mode" admin bar button redesign.
+
+## [0.6.4] - 2022-01-25
+### Changed
+- Add class notice to the IDC container div.
+- Add missing JS peer dependency.
+- Updated package dependencies.
+
+## [0.6.3] - 2022-01-18
+### Changed
+- General: update required node version to v16.13.2
+
+## [0.6.2] - 2022-01-11
+### Changed
+- Updated package dependencies.
+
+## [0.6.1] - 2022-01-11
+### Fixed
+- Do not add IDC query args to authenticated request when in offline or staging mode.
+
+## [0.6.0] - 2022-01-04
 ### Added
 - Build and display the new RNA IDC banner.
 
 ### Changed
 - Switch to pcov for code coverage.
-- Updated package dependencies
+- Updated package dependencies.
 - Updated package textdomain from `jetpack` to `jetpack-idc`.
 - Updated references to '.jp-recommendations__app-badge' to its new name '.apps-badge'
 
@@ -122,7 +157,16 @@ This is an alpha version! The changes listed here are not final.
 - Updated package dependencies.
 - Use Connection/Urls for home_url and site_url functions migrated from Sync.
 
-[0.6.0-alpha]: https://github.com/Automattic/jetpack-identity-crisis/compare/v0.5.0...v0.6.0-alpha
+[0.7.4]: https://github.com/Automattic/jetpack-identity-crisis/compare/v0.7.3...v0.7.4
+[0.7.3]: https://github.com/Automattic/jetpack-identity-crisis/compare/v0.7.2...v0.7.3
+[0.7.2]: https://github.com/Automattic/jetpack-identity-crisis/compare/v0.7.1...v0.7.2
+[0.7.1]: https://github.com/Automattic/jetpack-identity-crisis/compare/v0.7.0...v0.7.1
+[0.7.0]: https://github.com/Automattic/jetpack-identity-crisis/compare/v0.6.4...v0.7.0
+[0.6.4]: https://github.com/Automattic/jetpack-identity-crisis/compare/v0.6.3...v0.6.4
+[0.6.3]: https://github.com/Automattic/jetpack-identity-crisis/compare/v0.6.2...v0.6.3
+[0.6.2]: https://github.com/Automattic/jetpack-identity-crisis/compare/v0.6.1...v0.6.2
+[0.6.1]: https://github.com/Automattic/jetpack-identity-crisis/compare/v0.6.0...v0.6.1
+[0.6.0]: https://github.com/Automattic/jetpack-identity-crisis/compare/v0.5.0...v0.6.0
 [0.5.0]: https://github.com/Automattic/jetpack-identity-crisis/compare/v0.4.4...v0.5.0
 [0.4.4]: https://github.com/Automattic/jetpack-identity-crisis/compare/v0.4.3...v0.4.4
 [0.4.3]: https://github.com/Automattic/jetpack-identity-crisis/compare/v0.4.2...v0.4.3
