@@ -18,6 +18,7 @@ This is an alpha version! The changes listed here are not final.
 - Hooks: Change several action priorities to ensure translation loading is not triggered too early.
 - Jetpack AI: add instructions on to-test file
 - Jetpack AI: remove reload handler for logo generator modal call
+- Jetpack AI: use new exported component for AI generation modal on GP image generation
 - Optimize the Stats Admin Bar hook by narrowing down the callback.
 - Update Verbum Comments resize logic
 - WPCOM_JSON_API_Upload_Media_v1_1_Endpoint: Fix Fatals from uploads with invalid media type
