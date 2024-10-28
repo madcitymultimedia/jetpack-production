@@ -23,6 +23,7 @@ This is an alpha version! The changes listed here are not final.
 - General: indicate compatibility with the upcoming version of WordPress - 6.7.
 - Hooks: Change several action priorities to ensure translation loading is not triggered too early.
 - Jetpack AI: add instructions on to-test file
+- Jetpack AI: add styles dropdown on AI image generator modal
 - Jetpack AI: remove reload handler for logo generator modal call
 - Jetpack AI: use new exported component for AI generation modal on GP image generation
 - Optimize the Stats Admin Bar hook by narrowing down the callback.
