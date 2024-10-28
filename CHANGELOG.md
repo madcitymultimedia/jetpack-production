@@ -9,6 +9,9 @@ This is an alpha version! The changes listed here are not final.
 ### Enhancements
 - Subscriptions: add a floating subscribe button
 
+### Improved compatibility
+- Components: Add __nextHasNoMarginBottom to BaseControl-based components, preventing deprecation notices.
+
 ### Bug fixes
 - Carousel: Further improve accessibility by being more selective over which images to apply attributes to
 
