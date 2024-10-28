@@ -9,6 +9,9 @@ This is an alpha version! The changes listed here are not final.
 ### Enhancements
 - Subscriptions: add a floating subscribe button
 
+### Bug fixes
+- Carousel: Further improve accessibility by being more selective over which images to apply attributes to
+
 ### Other changes <!-- Non-user-facing changes go here. This section will not be copied to readme.txt. -->
 - AI Assistant: Write Brief should not flag words like '2nd' and '100th' as spelling errors.
 - Blocks: initialize connection assets in Story block.
