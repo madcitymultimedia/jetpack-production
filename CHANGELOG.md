@@ -9,6 +9,9 @@ This is an alpha version! The changes listed here are not final.
 ### Bug fixes
 - Social: Fixed the Instagram max video length
 
+### Other changes <!-- Non-user-facing changes go here. This section will not be copied to readme.txt. -->
+- Skip pricing page when connecting from editor blocks
+
 ## 14.0-a.11 - 2024-10-29
 ### Improved compatibility
 - Post Editor: Prevent deprecation notices with WordPress 6.7. [#39877]
