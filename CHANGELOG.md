@@ -2,6 +2,13 @@
 
 ### This is a list detailing changes for all Jetpack releases.
 
+## 14.0-a.12 - unreleased
+
+This is an alpha version! The changes listed here are not final.
+
+### Bug fixes
+- Social: Fixed the Instagram max video length
+
 ## 14.0-a.11 - 2024-10-29
 ### Improved compatibility
 - Post Editor: Prevent deprecation notices with WordPress 6.7. [#39877]
