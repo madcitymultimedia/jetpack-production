@@ -6,6 +6,9 @@
 
 This is an alpha version! The changes listed here are not final.
 
+### Improved compatibility
+- Subscribe Block: ensure that the number of subscribers is displayed nicely in the post sidebar.
+
 ### Bug fixes
 - Social: Fixed the Instagram max video length
 
