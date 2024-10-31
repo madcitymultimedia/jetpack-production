@@ -23,6 +23,7 @@ This is an alpha version! The changes listed here are not final.
 - Skip pricing page when connecting from editor blocks
 - Subscribe block: adjust margin of the notice appearing in the block sidebar.
 - Update testing instructions for Jetpack 14.0.
+- Write Brief: Load unconfident words from backend and update caching
 
 ## 14.0-a.11 - 2024-10-29
 ### Improved compatibility
