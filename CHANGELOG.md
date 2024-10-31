@@ -19,6 +19,7 @@ This is an alpha version! The changes listed here are not final.
 ### Other changes <!-- Non-user-facing changes go here. This section will not be copied to readme.txt. -->
 - Enable test coverage.
 - Jetpack AI: Add instructions to general image generation with styles to to-test file
+- Run coverage tests in parallel.
 - Skip pricing page when connecting from editor blocks
 - Subscribe block: adjust margin of the notice appearing in the block sidebar.
 - Update testing instructions for Jetpack 14.0.
