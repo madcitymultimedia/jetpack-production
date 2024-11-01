@@ -13,6 +13,7 @@ This is an alpha version! The changes listed here are not final.
 - Subscribe Block: ensure that the number of subscribers is displayed nicely in the post sidebar.
 
 ### Bug fixes
+- Fixed dataviews styles imported in share status being added globally
 - Google Fonts: Fix the module is not fully loaded due to the chagne of the late_initialization
 - Social: Fixed the Instagram max video length
 
