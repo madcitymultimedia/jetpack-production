@@ -24,6 +24,7 @@ This is an alpha version! The changes listed here are not final.
 - Run coverage tests in parallel.
 - Skip pricing page when connecting from editor blocks
 - Subscribe block: adjust margin of the notice appearing in the block sidebar.
+- Theme Tools: ensure theme-compat files are still loaded when a compatible theme is used.
 - Update testing instructions for Jetpack 14.0.
 - Write Brief: Load unconfident words from backend and update caching
 
