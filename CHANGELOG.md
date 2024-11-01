@@ -21,6 +21,7 @@ This is an alpha version! The changes listed here are not final.
 - Enable test coverage.
 - Fix PHPUnit coverage warnings.
 - Jetpack AI: Add instructions to general image generation with styles to to-test file
+- Modules: Update any instances where functions are hooked into plugins_loaded, to use a later hook if needed.
 - Run coverage tests in parallel.
 - Skip pricing page when connecting from editor blocks
 - Subscribe block: adjust margin of the notice appearing in the block sidebar.
