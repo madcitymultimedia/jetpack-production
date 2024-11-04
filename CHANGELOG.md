@@ -11,6 +11,7 @@ This is an alpha version! The changes listed here are not final.
 - Embed Blocks: Append 'Embed' to the titles of FB and Insta embed blocks
 
 ### Improved compatibility
+- External Media: ensure that the image block's external media picker button remains consistent with the other buttons in the image block.
 - Subscribe Block: ensure that the number of subscribers is displayed nicely in the post sidebar.
 
 ### Bug fixes
