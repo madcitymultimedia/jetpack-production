@@ -7,6 +7,7 @@
 This is an alpha version! The changes listed here are not final.
 
 ### Enhancements
+- Changed order of jetpack social connections.
 - Embed Blocks: Append 'Embed' to the titles of FB and Insta embed blocks
 
 ### Improved compatibility
