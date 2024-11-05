@@ -9,6 +9,9 @@ This is an alpha version! The changes listed here are not final.
 ### Enhancements
 - My Jetpack: update the recommendations section in My Jetpack to include a slider interaction for the cards.
 
+### Improved compatibility
+- Extra Sidebar Widgets: update assets' enqueuing strategy to ensure compatibility with the Elementor plugin.
+
 ## 14.0-beta - 2024-11-04
 ### Improved compatibility
 - Embed Blocks: Append 'Embed' to the titles of Facebook and Instagram embed blocks. [#39970]
