@@ -12,6 +12,9 @@ This is an alpha version! The changes listed here are not final.
 ### Improved compatibility
 - Extra Sidebar Widgets: update assets' enqueuing strategy to ensure compatibility with the Elementor plugin.
 
+### Other changes <!-- Non-user-facing changes go here. This section will not be copied to readme.txt. -->
+- Update "My Plan" page to only show Google Analytics for WoA sites.
+
 ## 14.0-beta - 2024-11-04
 ### Improved compatibility
 - Embed Blocks: Append 'Embed' to the titles of Facebook and Instagram embed blocks. [#39970]
