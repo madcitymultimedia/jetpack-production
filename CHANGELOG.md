@@ -14,6 +14,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Other changes <!-- Non-user-facing changes go here. This section will not be copied to readme.txt. -->
 - Update "My Plan" page to only show Google Analytics for WoA sites.
+- Updated package dependencies.
 
 ## 14.0-beta - 2024-11-04
 ### Improved compatibility
