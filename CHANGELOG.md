@@ -10,6 +10,7 @@ This is an alpha version! The changes listed here are not final.
 - My Jetpack: update the recommendations section in My Jetpack to include a slider interaction for the cards.
 
 ### Improved compatibility
+- Components: Shortlink and Toolbar related components have been updated to ensure compatibility.
 - Extra Sidebar Widgets: update assets' enqueuing strategy to ensure compatibility with the Elementor plugin.
 
 ### Bug fixes
