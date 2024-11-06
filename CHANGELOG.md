@@ -16,6 +16,7 @@ This is an alpha version! The changes listed here are not final.
 - Fixed bug with scheduled resharing when sharing another admin's posts.
 
 ### Other changes <!-- Non-user-facing changes go here. This section will not be copied to readme.txt. -->
+- Admin: Updating deprecation notices.
 - Fix Slideshow block width when used inside a Row block
 - Update "My Plan" page to only show Google Analytics for WoA sites.
 - Updated package dependencies.
