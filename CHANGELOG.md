@@ -8,6 +8,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Enhancements
 - My Jetpack: update the recommendations section in My Jetpack to include a slider interaction for the cards.
+- Use preconnect resource hints, instead of dns-prefetch, to improve performance
 
 ### Improved compatibility
 - Components: Shortlink and Toolbar related components have been updated to ensure compatibility.
