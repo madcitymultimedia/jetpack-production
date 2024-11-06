@@ -12,6 +12,9 @@ This is an alpha version! The changes listed here are not final.
 ### Improved compatibility
 - Extra Sidebar Widgets: update assets' enqueuing strategy to ensure compatibility with the Elementor plugin.
 
+### Bug fixes
+- Fixed bug with scheduled resharing when sharing another admin's posts.
+
 ### Other changes <!-- Non-user-facing changes go here. This section will not be copied to readme.txt. -->
 - Update "My Plan" page to only show Google Analytics for WoA sites.
 - Updated package dependencies.
