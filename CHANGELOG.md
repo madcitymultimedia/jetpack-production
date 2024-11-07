@@ -18,6 +18,7 @@ This is an alpha version! The changes listed here are not final.
 - Fixed bug with scheduled resharing when sharing another admin's posts.
 
 ### Other changes <!-- Non-user-facing changes go here. This section will not be copied to readme.txt. -->
+- Actions: Ensure Deprecations class loads after translations to prevent errors
 - Admin: Updating deprecation notices.
 - Fix Slideshow block width when used inside a Row block
 - Remove old widget migration code.
