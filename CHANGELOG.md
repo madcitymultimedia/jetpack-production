@@ -22,6 +22,7 @@ This is an alpha version! The changes listed here are not final.
 - Fix Slideshow block width when used inside a Row block
 - Remove old widget migration code.
 - Update "My Plan" page to only show Google Analytics for WoA sites.
+- Updated composer.lock
 - Updated package dependencies.
 
 ## 14.0-beta - 2024-11-04
