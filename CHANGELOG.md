@@ -20,6 +20,7 @@ This is an alpha version! The changes listed here are not final.
 ### Other changes <!-- Non-user-facing changes go here. This section will not be copied to readme.txt. -->
 - Actions: Ensure Deprecations class loads after translations to prevent errors
 - Admin: Updating deprecation notices.
+- AI Assistant: Add feature flag for list to table transform
 - Fix Slideshow block width when used inside a Row block
 - Remove old widget migration code.
 - Themes: Fix race condition when loading theme compatibility files.
