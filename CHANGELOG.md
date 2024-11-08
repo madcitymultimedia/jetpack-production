@@ -21,6 +21,7 @@ This is an alpha version! The changes listed here are not final.
 - Actions: Ensure Deprecations class loads after translations to prevent errors
 - Admin: Updating deprecation notices.
 - AI Assistant: Add feature flag for list to table transform
+- Deprecation notices: Ensure URLs are correctly generated.
 - Fix Slideshow block width when used inside a Row block
 - Jetpack AI: fix image generation modals jumpiness by fitting boththe image sizes and the placeholder/empty image
 - Remove old widget migration code.
