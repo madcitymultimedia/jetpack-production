@@ -24,6 +24,7 @@ This is an alpha version! The changes listed here are not final.
 - Deprecation notices: Ensure URLs are correctly generated.
 - Fix Slideshow block width when used inside a Row block
 - Jetpack AI: fix image generation modals jumpiness by fitting boththe image sizes and the placeholder/empty image
+- Opengraph: minor bug fixing.
 - Remove old widget migration code.
 - Themes: Fix race condition when loading theme compatibility files.
 - Update "My Plan" page to only show Google Analytics for WoA sites.
