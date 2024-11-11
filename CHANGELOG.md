@@ -29,6 +29,7 @@ This is an alpha version! The changes listed here are not final.
 - Optimize the Sharing module hook callback.
 - Remove old widget migration code.
 - Search: add ability to customize order of results
+- Subscriptions: ensure that we correct detect the site URL when handling the Subscription modal appearing leaving a comment.
 - Sync: Added test for Full Sync sending modules in the order config is set
 - Themes: Fix race condition when loading theme compatibility files.
 - Updated composer.lock
