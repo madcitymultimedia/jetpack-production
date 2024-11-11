@@ -26,6 +26,7 @@ This is an alpha version! The changes listed here are not final.
 - Fix Slideshow block width when used inside a Row block
 - Jetpack AI: fix image generation modals jumpiness by fitting boththe image sizes and the placeholder/empty image
 - Opengraph: minor bug fixing.
+- Optimize the Sharing module hook callback.
 - Remove old widget migration code.
 - Search: add ability to customize order of results
 - Sync: Added test for Full Sync sending modules in the order config is set
