@@ -9,6 +9,7 @@ This is an alpha version! The changes listed here are not final.
 ### Enhancements
 - My Jetpack: update the recommendations section in My Jetpack to include a slider interaction for the cards.
 - Use preconnect resource hints, instead of dns-prefetch, to improve performance
+- Use wp_register_block_metadata_collection() on WordPress 6.7+ to improve block registration performance by reducing filesystem operations. (See https://core.trac.wordpress.org/changeset/59132)
 
 ### Improved compatibility
 - Components: Shortlink and Toolbar related components have been updated to ensure compatibility.
