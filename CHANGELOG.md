@@ -22,6 +22,7 @@ This is an alpha version! The changes listed here are not final.
 - Admin: Updating deprecation notices.
 - AI Assistant: Add feature flag for list to table transform
 - Deprecation notices: Ensure URLs are correctly generated.
+- Fixed the inifite reload issue on Jetpack Sharing settings
 - Fix Slideshow block width when used inside a Row block
 - Jetpack AI: fix image generation modals jumpiness by fitting boththe image sizes and the placeholder/empty image
 - Opengraph: minor bug fixing.
