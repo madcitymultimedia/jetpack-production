@@ -6,6 +6,9 @@
 
 This is an alpha version! The changes listed here are not final.
 
+### Major Enhancements
+- General: Update minimum WordPress version to 6.6.
+
 ### Enhancements
 - Added a new toggle for Social UTM tracking
 - Use wp_register_block_metadata_collection() on WordPress 6.7+ to improve block registration performance by reducing filesystem operations. (See https://core.trac.wordpress.org/changeset/59132)
