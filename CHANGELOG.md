@@ -12,6 +12,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Bug fixes
 - Comments: fix reload after posting
+- Subscription settings: fix template preview+edit link for three toggles
 
 ### Other changes <!-- Non-user-facing changes go here. This section will not be copied to readme.txt. -->
 - Jetpack Podcast Player Block: Fix Uncaught TypeError Fatal
