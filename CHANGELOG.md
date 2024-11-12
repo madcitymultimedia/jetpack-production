@@ -10,6 +10,9 @@ This is an alpha version! The changes listed here are not final.
 - Added a new toggle for Social UTM tracking
 - Use wp_register_block_metadata_collection() on WordPress 6.7+ to improve block registration performance by reducing filesystem operations. (See https://core.trac.wordpress.org/changeset/59132)
 
+### Bug fixes
+- Comments: fix reload after posting
+
 ### Other changes <!-- Non-user-facing changes go here. This section will not be copied to readme.txt. -->
 - Jetpack Podcast Player Block: Fix Uncaught TypeError Fatal
 
