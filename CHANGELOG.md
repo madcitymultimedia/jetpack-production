@@ -9,6 +9,9 @@ This is an alpha version! The changes listed here are not final.
 ### Enhancements
 - Use wp_register_block_metadata_collection() on WordPress 6.7+ to improve block registration performance by reducing filesystem operations. (See https://core.trac.wordpress.org/changeset/59132)
 
+### Other changes <!-- Non-user-facing changes go here. This section will not be copied to readme.txt. -->
+- Jetpack Podcast Player Block: Fix Uncaught TypeError Fatal
+
 ## 14.1-a.1 - 2024-11-11
 ### Enhancements
 - My Jetpack: Update the recommendations section in My Jetpack to include a slider interaction for the cards. [#39850]
