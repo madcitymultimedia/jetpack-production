@@ -15,6 +15,7 @@ This is an alpha version! The changes listed here are not final.
 - Subscription settings: fix template preview+edit link for three toggles
 
 ### Other changes <!-- Non-user-facing changes go here. This section will not be copied to readme.txt. -->
+- Backup: added next daily backup schedule time on admin page
 - Jetpack Podcast Player Block: Fix Uncaught TypeError Fatal
 
 ## 14.1-a.1 - 2024-11-11
