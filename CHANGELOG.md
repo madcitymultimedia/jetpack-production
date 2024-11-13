@@ -20,6 +20,7 @@ This is an alpha version! The changes listed here are not final.
 ### Other changes <!-- Non-user-facing changes go here. This section will not be copied to readme.txt. -->
 - Backup: added next daily backup schedule time on admin page
 - Jatpack AI: Adding "transform list into table" functionality back to AI Assistant
+- Jetpack AI: add styles support for featured image AI modal
 - Jetpack Podcast Player Block: Fix Uncaught TypeError Fatal
 
 ## 14.1-a.1 - 2024-11-11
