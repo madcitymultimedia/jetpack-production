@@ -7,6 +7,7 @@
 This is an alpha version! The changes listed here are not final.
 
 ### Major Enhancements
+- General: Update minimum PHP version to 7.2.
 - General: Update minimum WordPress version to 6.6.
 
 ### Enhancements
