@@ -22,6 +22,7 @@ This is an alpha version! The changes listed here are not final.
 - Added UTM option to sync
 - Add Jetpack Growth constants so My Plan section doesn't error out
 - Backup: added next daily backup schedule time on admin page
+- Dashboard: fix a bug with connection cards in "promotions disabled" mode.
 - Jatpack AI: Adding "transform list into table" functionality back to AI Assistant
 - Jetpack AI: add styles support for featured image AI modal
 - Jetpack AI: Make sure we validate that the new option exists
