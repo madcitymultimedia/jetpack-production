@@ -25,6 +25,7 @@ This is an alpha version! The changes listed here are not final.
 - Dashboard: fix a bug with connection cards in "promotions disabled" mode.
 - Jatpack AI: Adding "transform list into table" functionality back to AI Assistant
 - Jetpack AI: add styles support for featured image AI modal
+- Jetpack AI: hotfix for input disabled bug (https://github.com/Automattic/wp-calypso/issues/96430)
 - Jetpack AI: Make sure we validate that the new option exists
 - Jetpack Podcast Player Block: Fix Uncaught TypeError Fatal
 
