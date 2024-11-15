@@ -14,6 +14,9 @@ This is an alpha version! The changes listed here are not final.
 - Added a new toggle for Social UTM tracking
 - Use wp_register_block_metadata_collection() on WordPress 6.7+ to improve block registration performance by reducing filesystem operations. (See https://core.trac.wordpress.org/changeset/59132)
 
+### Improved compatibility
+- Dashboard: Fix toggle component to prevent console warnings.
+
 ### Bug fixes
 - Comments: fix reload after posting
 - Subscription settings: fix template preview+edit link for three toggles
