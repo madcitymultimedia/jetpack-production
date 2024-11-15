@@ -30,6 +30,7 @@ This is an alpha version! The changes listed here are not final.
 - Jetpack AI: add styles support for featured image AI modal
 - Jetpack AI: hotfix for input disabled bug (https://github.com/Automattic/wp-calypso/issues/96430)
 - Jetpack AI: Make sure we validate that the new option exists
+- Jetpack AI: Only display "turn list into table" menu item for top level lists
 - Jetpack Podcast Player Block: Fix Uncaught TypeError Fatal
 
 ## 14.1-a.1 - 2024-11-11
