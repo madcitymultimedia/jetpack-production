@@ -9,6 +9,9 @@ This is an alpha version! The changes listed here are not final.
 ### Enhancements
 - Google Photos Picker: Adding Google Photos Picker flow backend API endpoints support
 
+### Bug fixes
+- AI Assistant: Fix bug with error message when user is not over requests limit
+
 ### Other changes <!-- Non-user-facing changes go here. This section will not be copied to readme.txt. -->
 - Docs: update lists of social networks supported by Publicize, to include all the newer networks.
 - Jetpack AI: image generator modals now properly enable prompt input separately from action button
