@@ -16,6 +16,7 @@ This is an alpha version! The changes listed here are not final.
 - Docs: update lists of social networks supported by Publicize, to include all the newer networks.
 - Jetpack AI: image generator modals now properly enable prompt input separately from action button
 - Jetpack AI: increase response cache TTL, add error response caching and increase request timeout
+- Jetpack AI: Moving transform list to table prompt to backend
 - Updated package dependencies.
 
 ## 14.1-a.3 - 2024-11-18
