@@ -10,6 +10,7 @@ This is an alpha version! The changes listed here are not final.
 - Google Photos Picker: Adding Google Photos Picker flow backend API endpoints support
 
 ### Other changes <!-- Non-user-facing changes go here. This section will not be copied to readme.txt. -->
+- Jetpack AI: increase response cache TTL, add error response caching and increase request timeout
 - Updated package dependencies.
 
 ## 14.1-a.3 - 2024-11-18
