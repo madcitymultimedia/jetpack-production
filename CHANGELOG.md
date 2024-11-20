@@ -11,6 +11,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Bug fixes
 - AI Assistant: Fix bug with error message when user is not over requests limit
+- Forms: Prevent duplicate Salesforce entry submissions
 
 ### Other changes <!-- Non-user-facing changes go here. This section will not be copied to readme.txt. -->
 - Docs: update lists of social networks supported by Publicize, to include all the newer networks.
