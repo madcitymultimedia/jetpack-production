@@ -8,6 +8,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Enhancements
 - Google Photos Picker: Adding Google Photos Picker flow backend API endpoints support
+- Subject: update Google Photos external media to support Google Photos Picker API
 
 ### Bug fixes
 - AI Assistant: Fix bug with error message when user is not over requests limit
