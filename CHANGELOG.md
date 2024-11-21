@@ -24,6 +24,7 @@ This is an alpha version! The changes listed here are not final.
 - Jetpack AI: use the right feature control to pick the styles from
 - Newsletter settings: update form labels for welcome message
 - Replace Creator recommendation with Growth in Dashboard
+- Updated dependencies.
 - Updated package dependencies.
 
 ## 14.1-a.3 - 2024-11-18
