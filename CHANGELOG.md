@@ -26,6 +26,7 @@ This is an alpha version! The changes listed here are not final.
 - Replace Creator recommendation with Growth in Dashboard
 - Updated dependencies.
 - Updated package dependencies.
+- Update feature for stats in growth to 10K instead of 100K
 
 ## 14.1-a.3 - 2024-11-18
 ### Major Enhancements
