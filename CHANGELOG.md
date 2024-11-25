@@ -11,6 +11,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Enhancements
 - Google Photos Picker: Adding Google Photos Picker flow backend API endpoints support
+- Social | Post share status in the editor is now immediately available on page load
 - Subject: update Google Photos external media to support Google Photos Picker API
 
 ### Bug fixes
