@@ -6,6 +6,9 @@
 
 This is an alpha version! The changes listed here are not final.
 
+### Major Enhancements
+- Added linkedin permissions warning
+
 ### Enhancements
 - Google Photos Picker: Adding Google Photos Picker flow backend API endpoints support
 - Subject: update Google Photos external media to support Google Photos Picker API
