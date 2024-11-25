@@ -19,6 +19,7 @@ This is an alpha version! The changes listed here are not final.
 - Forms: Prevent duplicate Salesforce entry submissions
 
 ### Other changes <!-- Non-user-facing changes go here. This section will not be copied to readme.txt. -->
+- Added to-test changes for Jetpack 14.1.
 - Docs: update lists of social networks supported by Publicize, to include all the newer networks.
 - Fixed TS errors following @wordpress/editor update
 - Jetpack AI: Enable transform list to table functionality for all
