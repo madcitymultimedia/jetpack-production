@@ -2,6 +2,13 @@
 
 ### This is a list detailing changes for all Jetpack releases.
 
+## 14.1-a.8 - unreleased
+
+This is an alpha version! The changes listed here are not final.
+
+### Other changes <!-- Non-user-facing changes go here. This section will not be copied to readme.txt. -->
+- Likes: Add a filter to the iframe url to enable future expansion and modularity.
+
 ## 14.1-a.7 - 2024-11-26
 ### Enhancements
 - Subscriptions: stops loading editor functionality (i.e. the block and panels) when subscriptions module is disabled. [#39802]
