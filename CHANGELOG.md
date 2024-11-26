@@ -2,6 +2,13 @@
 
 ### This is a list detailing changes for all Jetpack releases.
 
+## 14.1-a.6 - unreleased
+
+This is an alpha version! The changes listed here are not final.
+
+### Enhancements
+- Subscriptions: stops loading editor functionality (i.e. the block and panels) when subscriptions module is disabled.
+
 ## 14.1-a.5 - 2024-11-25
 ### Major Enhancements
 - Social: Added permissions warning for LinkedIn connections. [#40220]
