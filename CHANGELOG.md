@@ -10,6 +10,7 @@ This is an alpha version! The changes listed here are not final.
 - Tiled Gallery: Increase accessibility by ensuring images are not classified as interactive when they shouldn't be.
 
 ### Other changes <!-- Non-user-facing changes go here. This section will not be copied to readme.txt. -->
+- Add growth icon to recommendation upsell
 - Classic Theme Helper: Adding Testimonial custom post type content
 - Likes: Add a filter to the iframe url to enable future expansion and modularity.
 
