@@ -2,12 +2,12 @@
 
 ### This is a list detailing changes for all Jetpack releases.
 
-## 14.1-a.6 - unreleased
-
-This is an alpha version! The changes listed here are not final.
-
+## 14.1-a.7 - 2024-11-26
 ### Enhancements
-- Subscriptions: stops loading editor functionality (i.e. the block and panels) when subscriptions module is disabled.
+- Subscriptions: stops loading editor functionality (i.e. the block and panels) when subscriptions module is disabled. [#39802]
+
+### Bug fixes
+- Social: Fixed undefined index error on specific WordPress.com environments. [#40337]
 
 ## 14.1-a.5 - 2024-11-25
 ### Major Enhancements
