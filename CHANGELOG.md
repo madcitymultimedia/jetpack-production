@@ -9,6 +9,9 @@ This is an alpha version! The changes listed here are not final.
 ### Improved compatibility
 - Tiled Gallery: Increase accessibility by ensuring images are not classified as interactive when they shouldn't be.
 
+### Bug fixes
+- Fixed block error when editing Subscribe block
+
 ### Other changes <!-- Non-user-facing changes go here. This section will not be copied to readme.txt. -->
 - Add growth icon to recommendation upsell
 - Classic Theme Helper: Adding Testimonial custom post type content
