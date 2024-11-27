@@ -18,6 +18,7 @@ This is an alpha version! The changes listed here are not final.
 ### Other changes <!-- Non-user-facing changes go here. This section will not be copied to readme.txt. -->
 - Add growth icon to recommendation upsell
 - Classic Theme Helper: Adding Testimonial custom post type content
+- Jetpack AI: check module availability for mapped blocks (so far, contact-form)
 - Likes: Add a filter to the iframe url to enable future expansion and modularity.
 
 ## 14.1-a.7 - 2024-11-26
