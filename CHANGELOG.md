@@ -6,6 +6,9 @@
 
 This is an alpha version! The changes listed here are not final.
 
+### Enhancements
+- Social | Improved My Jetpack CTA for Social Activate the module instead of Learn More
+
 ### Improved compatibility
 - Tiled Gallery: Increase accessibility by ensuring images are not classified as interactive when they shouldn't be.
 
