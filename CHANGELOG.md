@@ -14,6 +14,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Bug fixes
 - Fixed block error when editing Subscribe block
+- Social | Made resharing async in classic editor to fix timeout issues
 
 ### Other changes <!-- Non-user-facing changes go here. This section will not be copied to readme.txt. -->
 - Add growth icon to recommendation upsell
