@@ -15,6 +15,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Bug fixes
 - Fixed block error when editing Subscribe block
+- Resolved an issue where revoked licenses were incorrectly treated as unattached. This caused users to be redirected to the license activation page after site connection, even when unattached licenses were not valid for activation.
 - Social | Made resharing async in classic editor to fix timeout issues
 
 ### Other changes <!-- Non-user-facing changes go here. This section will not be copied to readme.txt. -->
