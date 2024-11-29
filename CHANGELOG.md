@@ -24,6 +24,7 @@ This is an alpha version! The changes listed here are not final.
 - Jetpack AI: check module availability for mapped blocks (so far, contact-form)
 - Likes: Add a filter to the iframe url to enable future expansion and modularity.
 - Updated @wordpress/editor to the latest version
+- Write Brief: Add alternative apostroph char to spelling mistakes regex
 
 ## 14.1-a.7 - 2024-11-26
 ### Enhancements
