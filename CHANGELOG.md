@@ -10,6 +10,7 @@ This is an alpha version! The changes listed here are not final.
 - Social | Improved My Jetpack CTA for Social Activate the module instead of Learn More
 
 ### Improved compatibility
+- Social | Changed activate social button in the editor to link
 - Tiled Gallery: Increase accessibility by ensuring images are not classified as interactive when they shouldn't be.
 
 ### Bug fixes
